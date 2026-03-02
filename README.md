@@ -1,5 +1,9 @@
 # Smart Calculator Firmware
 
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)
+
 ![Smart Calculator](Image.png)
 
 A robust, state-machine-driven calculator firmware designed for microcontrollers. This project implements a fully functional calculator with a 4x4 matrix keypad and a 16x2 I2C LCD, featuring standard arithmetic, factorial calculations with overflow protection, and special operational modes.

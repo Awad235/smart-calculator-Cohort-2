@@ -10,7 +10,6 @@ You can test and interact with the calculator circuit directly in your browser w
 ## 💻 Language & Tech Stack
 
 * **Language:** **C++** (Arduino/AVR dialect)
-* **Paradigm:** Bare-metal procedural programming with a state-machine architecture.
 * **Memory Management:** Strictly utilizes standard `char` arrays (C-strings) over dynamic `String` objects to prevent heap fragmentation in memory-constrained embedded environments.
 
 ## 🛠️ Hardware Requirements
@@ -30,7 +29,7 @@ This project relies on the following standard and third-party libraries:
 
 ## ✨ Features
 
-* **Basic Arithmetic:** Addition (+), Subtraction (-), Multiplication (x), and Division (/).
+* **Basic Arithmetic:** Addition (`+`), Subtraction (`-`), Multiplication (`x`), and Division (`/`).
 * **Advanced Modes:** * **Power Mode (`a^b`):** Triggered by pressing `C` twice.
     * **Square Root Mode (`√a`):** Triggered by pressing `D` twice.
     * **Percent Mode (`a * b / 100`):** Triggered by entering a number, pressing `C`, then `*`.

@@ -7,9 +7,9 @@
 
 A robust, state-machine-driven calculator firmware designed for microcontrollers. This project implements a fully functional calculator with a 4x4 matrix keypad and a 16x2 I2C LCD, featuring standard arithmetic, factorial calculations with overflow protection, and special operational modes.
 
-## 🌐 Live Simulation
+## 🌐 Live Simulation & Code
 
-You can test and interact with the calculator circuit directly in your browser without any hardware setup using Tinkercad:
+Using Tinkercad:
 *👉 **[Run the Smart Calculator Simulation on Tinkercad](https://www.tinkercad.com/things/jma5w2xD1lB-mini-project-sc-cohort-2?sharecode=2cB-oheXFu3R7yPCmdYdtdWurur4vT3tMj6btMrqQbY)**
 *👉 **[Arduino Code](https://github.com/Awad235/smart-calculator-Cohort-2/blob/main/Final-SC-Code.cpp)**
 

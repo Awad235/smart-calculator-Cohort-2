@@ -1,8 +1,8 @@
 # Smart Calculator Firmware
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)
+![License](https://img.shields.io/badge/License-MIT-yellow) ![Platform](https://img.shields.io/badge/Platform-Arduino-blue) 
+![Language](https://img.shields.io/badge/Language-C%2B%2B-yellowgreen) ![Build](https://img.shields.io/badge/Build-Passing-brightgreen) 
+![Implementation](https://img.shields.io/badge/Implementation-Bare--Metal-orange)
 
 ![Smart Calculator](Image.png)
 

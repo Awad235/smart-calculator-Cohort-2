@@ -6,8 +6,6 @@ A robust, state-machine-driven calculator firmware designed for microcontrollers
 
 ## 🌐 Live Simulation
 
-## 🌐 Live Simulation
-
 You can test and interact with the calculator circuit directly in your browser without any hardware setup using Tinkercad:
 👉 **[Run the Smart Calculator Simulation on Tinkercad](https://www.tinkercad.com/things/jma5w2xD1lB-mini-project-sc-cohort-2?sharecode=2cB-oheXFu3R7yPCmdYdtdWurur4vT3tMj6btMrqQbY)**
 

@@ -9,9 +9,10 @@ A robust, state-machine-driven calculator firmware designed for microcontrollers
 
 ## 🌐 Live Simulation & Code
 
-Using Tinkercad:
-*👉 **[Run the Smart Calculator Simulation on Tinkercad](https://www.tinkercad.com/things/jma5w2xD1lB-mini-project-sc-cohort-2?sharecode=2cB-oheXFu3R7yPCmdYdtdWurur4vT3tMj6btMrqQbY)**
-*👉 **[Arduino Code](https://github.com/Awad235/smart-calculator-Cohort-2/blob/main/Final-SC-Code.cpp)**
+You can test the calculator circuit directly in your browser or view the final source code below:
+
+* 👉 **[Run the Smart Calculator Simulation on Tinkercad](https://www.tinkercad.com/things/jma5w2xD1lB-mini-project-sc-cohort-2?sharecode=2cB-oheXFu3R7yPCmdYdtdWurur4vT3tMj6btMrqQbY)**
+* 👉 **[View the Arduino Code on GitHub](https://github.com/Awad235/smart-calculator-Cohort-2/blob/main/Final-SC-Code.cpp)**
 
 ## 💻 Language & Tech Stack
 

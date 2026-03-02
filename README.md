@@ -1,6 +1,10 @@
 # Smart Calculator Firmware
 
+![Smart Calculator](Image.png)
+
 A robust, state-machine-driven calculator firmware designed for microcontrollers. This project implements a fully functional calculator with a 4x4 matrix keypad and a 16x2 I2C LCD, featuring standard arithmetic, factorial calculations with overflow protection, and special operational modes.
+
+## 🌐 Live Simulation
 
 ## 🌐 Live Simulation
 
